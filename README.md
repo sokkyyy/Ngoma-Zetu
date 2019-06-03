@@ -5,7 +5,7 @@ Music Streaming Website
 
 A website used to upload and stream music.
 
-Categorizes the music files under different local languages.
+Categorizes the audio files under different local languages.
 
 
 
