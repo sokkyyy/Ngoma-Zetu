@@ -1,0 +1,119 @@
+body {
+    padding-top: 50px;
+    background-color: #a30059ff; 
+}
+.jumbotron {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding: 40px 15px;
+}
+.containerMusic {
+position: center;
+
+}
+.select-category {
+  font-size: 16px;
+  position: relative;
+  display: inline-block;
+  color:#a30059ff ;
+}
+
+
+input[type=search]{
+color: #a30059ff;
+padding: 5px;
+margin-top: 7px
+
+}
+.footer{
+  position: relative;
+    margin-bottom:-40px;
+margin-top:50px;
+margin-left:auto;
+margin-right:auto;
+    width: 100%;
+    background-color: #eeeeee;
+    text-align: center;
+
+}
+#footerimage{
+ 
+  
+  display:inline-block;
+  float: left;
+  width: 70PX;
+}
+#footertext{
+  height: auto;
+  display:inline-block;
+
+  height:100px;
+  top: 50px;
+  color: #a30059ff;
+  text-align: center;
+}
+#musicDet{
+  color: #eeeeee;
+  text-align: center;
+
+  top:25%;
+left:13%;
+
+}
+.thumb-image {
+ 
+ width: 400px;
+ height: 200px;
+ 
+ 
+}
+
+#inputFile{
+
+
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+#buysong {
+  background-color: #eeeeee;
+    color: #a30059ff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+top:50%;
+left:40%;
+}
+#player {
+
+position: absolute;
+top:30%;
+left:13%;
+  width: 1000px;
+  height: 100px;
+  background-color:#a30059ff;
+  display: flex;
+  border-radius: 2px;
+  padding: 5 16px;
+}
+#category:link, #category:visited{
+
+    color: #a30059ff;
+    font-size: 30px;
+    padding: 14px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+#category:hover, #category:active{
+
+  color: #a34959ff;
+}
+
+
+
